@@ -52,12 +52,5 @@
 					</form>
 				</div>
 			</div>
-
-			 <footer style="margin-top:80px">
-		    <div class="col-md-12"><hr></div>
-		    <div class="col-md-offset-8 col-md-4">
-		       <small style="font-size:80%">by: <a href="http://www.nikkozabala.com" target="_blank">Nikko Zabala</a> | email: nikko.zabala@gmail.com | cp: 09175958552</small>
-		    </div>
-		  </footer>
 		</div>
 </html>

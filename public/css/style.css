@@ -1,0 +1,14 @@
+.navbar-inverse
+{
+	background:#253B4B !important;
+	border-color:#253B4B;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #E8B335 !important;
+}
+
+.navbar {
+     border-radius: 0px !important;
+}
